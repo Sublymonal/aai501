@@ -8,9 +8,9 @@ Descriptive Analysis:
 - Clinical measurements
 
 Models Used:
-- Logistic regression
-- Random Forest
-- Gradient Boosting
+- Logistic regression (Emma)
+- Random Forest (Nick)
+- Gradient Boosting (Jeff)
 
 Tools used:
 - Numpy
@@ -18,3 +18,8 @@ Tools used:
 - Pandas
 - Seaborn
 - SMOTE
+
+### Individual code has been consolodated into "Team 3 project"
+Individual code still available for further review
+
+Note: Kaggle link no longer exists, use heart.csv *
